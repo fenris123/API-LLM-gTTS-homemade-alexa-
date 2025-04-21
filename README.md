@@ -1,5 +1,5 @@
-# API-LLM-gTTS-homemade-alexa-
-Using AEMET API combined with  local LLM to hear a resume of local wheater 
+# API + LLM + gTTS = "Homemade Alexa"
+Using AEMET API combined with  local LLM to hear a resume of local wheater in a similar way 
 
 
 #  INTRODUCTION
@@ -80,8 +80,11 @@ gtts
 
 #  REQUIREMENTS TO USE THE AEMET API
 
-As I said before, i have another repository about AEMET API here:  https://github.com/fenris123/USING-AEMET-API-TO-OBTAIN-WEATHER-DATA-FROM-SPANISH-CITIES
-If you don't want to read it, here is the basic things.
+As I said before, i have another repository about AEMET API here:  https://github.com/fenris123/USING-AEMET-API-TO-OBTAIN-WEATHER-DATA-FROM-SPANISH-CITIES .
+This could be very interesting i.e. if you want to change it to hear the weather prediction instead of a resume of the last week weather.
+
+
+If you don't want to read it, here is the basic things:
 
 To use AEMET API, you need a token.  You can request one here:   https://opendata.aemet.es/centrodedescargas/altaUsuario?
 After that, open the "tokens.env" file (is just a .txt with another "name") and copy your token there.
