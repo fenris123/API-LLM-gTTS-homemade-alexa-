@@ -120,10 +120,18 @@ mistral-7b-openorca.Q4_0.gguf on the other side gives a richer and more complete
 If you can try another LLM, do it: it's very fun!
 
 
+#  OCASIONAL BUGS
+
+I don't know why, sometimes AEMET requires that you insert your token on his web.
+If you have some problems, try to open this web and insert the token in "autorize" :  https://opendata.aemet.es/dist/index.html?
+
+
+
+
 #  FINAL THOUGHS.
 
 To me this proyect is finished and closed. I hope that you find al this as interesting as i did.
-I will use all of this as a base for another things for sure, but i'm not going to ad anything more to this repository.
+I will use all of this as a base for another things for sure, but i'm not going to ad anything more to this repository. (except to solve the token bug)
 So now it's your turn to try it and change it!
 
 
