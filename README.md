@@ -126,6 +126,11 @@ I don't know why, sometimes AEMET requires that you insert your token on his web
 If you have some problems, try to open this web and insert the token in "autorize" :  https://opendata.aemet.es/dist/index.html?
 
 
+# DISCLAIMER ABOUT DATA PROPERTY:
+
+
+READ THIS ABOUT HOW TO USE THE DATA OBTAINED FROM AEMET.
+https://www.aemet.es/es/nota_legal
 
 
 #  FINAL THOUGHS.
